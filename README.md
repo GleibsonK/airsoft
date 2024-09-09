@@ -1,6 +1,8 @@
 # Airsoft - Descubra o Mundo da Simulação de Combate!
 
-[Link de Acesso ao Projeto]([#](https://airsoft-blush.vercel.app/))
+##[Link de Acesso ao Projeto](https://airsoft-blush.vercel.app/)
+##[Link de Acesso ao Projeto](https://guia-do-airsoft-uodkdtm.gamma.site/)
+
 
 ## Sobre o Projeto
 
